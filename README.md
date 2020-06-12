@@ -7,4 +7,4 @@ Repositório com o desafio solicitado pela verdanatech.
 
 *OBS: para o banco de dados, foram utilizados usuário, senha e porta padrão do mysql. o host é localhost e o nome do banco é verdanatech.*
 
-Os dados citados acima se encontram em *Back-end/classes/Conexão.class.php*
+Os dados citados acima se encontram em *Back-end/classes/Conexao.class.php*
